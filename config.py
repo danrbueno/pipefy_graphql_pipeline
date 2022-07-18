@@ -17,16 +17,14 @@ API_URL      = "https://api.pipefy.com/graphql"
 # - visit https://app.pipefy.com/ 
 # - log in to your Pipefy account
 # - go to https://app.pipefy.com/tokens
-PIPEFY_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9."
-PIPEFY_TOKEN += "eyJ1c2VyIjp7ImlkIjozMDIxMTc5NjcsImVtYWlsIjoiYnVlbm8xOTgyQGdtYWlsLmNvbSIsImFwcGxpY2F0aW9uIjozMDAxNzc0OTd9fQ."
-PIPEFY_TOKEN += "HlsNAqBXybu22zYagw5QumOpiEMXt8YFZWO8q3abJ62LJzWzWUVqnBYETdqAutz81iwIIhfoBiXVO2i6g-sGjQ"
+PIPEFY_TOKEN = "PASTE YOUR TOKEN HERE"
 
 # JSON heders
 ACCEPT       = "application/json"
 CONTENT_TYPE = "application/json"
 
 # Your pipe id (https://app.pipefy.com/pipes/<PIPE_ID>)
-PIPE_ID      = "302551116"
+PIPE_ID      = "PASTE YOUR PIPE ID HERE"
 
 # The fields of the Pipefy cards you want to extract from GraphQL
 EDGES        = "{ edges"
