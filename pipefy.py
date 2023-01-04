@@ -26,16 +26,14 @@ class Pipe(object):
         # - visit https://app.pipefy.com/ 
         # - log in to your Pipefy account
         # - go to https://app.pipefy.com/tokens
-        self._token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9."
-        self._token += "eyJ1c2VyIjp7ImlkIjozMDIxMTc5NjcsImVtYWlsIjoiYnVlbm8xOTgyQGdtYWlsLmNvbSIsImFwcGxpY2F0aW9uIjozMDAxNzc0OTd9fQ."
-        self._token += "HlsNAqBXybu22zYagw5QumOpiEMXt8YFZWO8q3abJ62LJzWzWUVqnBYETdqAutz81iwIIhfoBiXVO2i6g-sGjQ"
+        self._token = "<YOUR TOKEN>"
 
         # JSON heders
         self._accept       = "application/json"
         self._content_type = "application/json"
 
         # Your pipe id (https://app.pipefy.com/pipes/<PIPE_ID>)
-        self._pipe_id      = pipe_id #"302551116"
+        self._pipe_id      = pipe_id #"<YOUR PIPE ID>"
 
         # The fields of the Pipefy cards you want to extract from GraphQL
         self._edges        = "{ edges"
