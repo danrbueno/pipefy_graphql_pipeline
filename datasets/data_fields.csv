@@ -1,0 +1,72 @@
+card_id,name,value2
+551088670,Temperatura do negócio,Quente
+551088670,Temperatura do negócio,Morno
+551088670,Temperatura do negócio,Frio
+551088670,Vendedor responsável,Daniel Bueno
+551088670,Vendedor responsável,Daniel Portifolio
+551088670,Valor do negócio,"50.000,00"
+551088670,Telefone,+55 99 99999-9999
+551088670,Email profissional,coiote@pipefymail.com
+551088670,Empresa,ACME
+551088670,Indústria,Tecnologia
+551088670,Negócio,Produto - ACME
+551088670,Nome do contato,Coiote
+551088669,Telefone,+55 99 99999-9999
+551088669,Email profissional,willy.wonka@pipefymail.com
+551088669,Temperatura do negócio,Morno
+551088669,Negócio,RH - Indústrias Wonka
+551088669,Nome do contato,Willy Wonka
+551088669,Empresa,Indústrias Wonka
+551088669,Indústria,Manufatura
+551088669,Valor do negócio,"30.000,00"
+551088674,Email profissional,edward.ashford@pipefymail.com
+551088674,Negócio,Dp Químico - Corporação Umbrella
+551088674,Nome do contato,Edward Ashford
+551088674,Telefone,+55 99 99999-9999
+551088674,Empresa,Corporação Umbrella
+551088674,Valor do negócio,"60.000,00"
+551088674,Temperatura do negócio,Quente
+551088674,Indústria,Manufatura
+551088667,Negócio,Administrativo - Central Perk
+551088667,Nome do contato,Gunther
+551088667,Valor do negócio,"10.000,00"
+551088667,Telefone,+55 99 99999-9999
+551088667,Empresa,Central Perk
+551088667,Indústria,Varejo
+551088667,Email profissional,gunther@pipefymail.com
+551088667,Temperatura do negócio,Frio
+551088666,Email profissional,tony.stark@pipefymail.com
+551088666,Nome do contato,Tony Stark
+551088666,Telefone,+55 99 99999-9999
+551088666,Temperatura do negócio,Quente
+551088666,Negócio,TI - Indústrias Stark
+551088666,Empresa,Indústrias Stark
+551088666,Indústria,Tecnologia
+551088666,Valor do negócio,"47.000,00"
+551088671,Email profissional,gustavo.fring@pipefymail.com
+551088671,Telefone,+55 99 99999-9999
+551088671,Empresa,Los Pollos Hermanos
+551088671,Negócio,Cozinha - Los Pollos Hermanos
+551088671,Nome do contato,Gustavo Fring
+551088671,Indústria,Outro
+551088671,Valor do negócio,"29.000,00"
+551088671,Temperatura do negócio,Morno
+551088672,Negócio,Vendas - Oscorp
+551088672,Empresa,Oscorp
+551088672,Indústria,Tecnologia
+551088672,Valor do negócio,"60.000,00"
+551088672,Telefone,+55 99 99999-9999
+551088672,Email profissional,norman.osborn@pipefymail.com
+551088672,Temperatura do negócio,Quente
+551088672,Nome do contato,Norman Osborn
+551088672,Valor final da oportunidade,"20.000,00"
+551088668,Motivo da perda,Preço
+551088668,Nome do contato,Bruce Wayne
+551088668,Email profissional,bruce.wayne@pipefymail.com
+551088668,Empresa,Indústrias Wayne
+551088668,Negócio,Jurídico - Indústrias Wayne
+551088668,Valor do negócio,"10.000,00"
+551088668,Temperatura do negócio,Frio
+551088668,Telefone,+55 99 99999-9999
+551088668,Status ,Perdido
+551088668,Indústria,Tecnologia
